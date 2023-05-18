@@ -1,0 +1,12 @@
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/bin/Debug/netcoreapp3.1/CachorroQuente.deps.json
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/bin/Debug/netcoreapp3.1/CachorroQuente.runtimeconfig.json
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/bin/Debug/netcoreapp3.1/CachorroQuente.runtimeconfig.dev.json
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/bin/Debug/netcoreapp3.1/CachorroQuente.dll
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/bin/Debug/netcoreapp3.1/CachorroQuente.pdb
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.csprojAssemblyReference.cache
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.AssemblyInfoInputs.cache
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.AssemblyInfo.cs
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.csproj.CoreCompileInputs.cache
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.dll
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.pdb
+/Users/rafaelagomes/Desktop/dev/CachorroQuente/obj/Debug/netcoreapp3.1/CachorroQuente.genruntimeconfig.cache
